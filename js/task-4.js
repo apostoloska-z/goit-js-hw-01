@@ -1,6 +1,7 @@
 // const credits = 23580;
 // const pricePerDroid = 3000;
-// let droidQuantity = prompt ('Введите количество дроидов, которое хотите купить');
+// const droidQuantity = prompt ('Введите количество дроидов, которое хотите купить');
+// droidQuantity = Number(droidQuantity);
 // const totalPrice = pricePerDroid * droidQuantity;
 // const creditsBalance = credits - totalPrice;
 
